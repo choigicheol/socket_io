@@ -1,0 +1,39 @@
+#userMessage{
+  text-align : right;
+}
+
+#noticeMessage{
+  text-align : center;
+}
+
+.chatUserName{
+  font-size : 20px;
+  font-weight : bold;
+}
+
+
+
+.messageOutline{
+  display : inline-flex;
+  flex-direction: column;
+  justify-content : space-around;
+  border: none;
+  background:  rgba(250, 206, 94, 0.445);
+  border-radius: 20px;
+  height : 50px;
+  padding: 5px 30px;
+  margin-top : 10px;
+}
+
+.chatText{
+  color : rgb(102, 102, 102);
+}
+
+.otherOutLine{
+  background:  rgba(233, 233, 233, 0.445);
+}
+
+.height20 {
+  height : 20px;
+  background:  rgb(0, 0, 0);
+}
